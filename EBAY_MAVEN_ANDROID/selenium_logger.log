@@ -1,0 +1,20 @@
+2018-07-02 11:05:23,069 |  INFO | [main] | utilities.Log:info(25) | Creation of testng xml file started 
+2018-07-02 11:05:23,073 |  INFO | [main] | utilities.Log:info(25) | Reading file 
+2018-07-02 11:05:23,237 |  INFO | [main] | utilities.Log:info(25) | Creation of testng xml file Completed 
+2018-07-02 11:05:23,237 |  INFO | [main] | utilities.Log:info(25) | Test Case execution started 
+2018-07-02 11:05:23,744 |  INFO | [main] | utilities.Log:info(25) | Before suite Started 
+2018-07-02 11:05:23,758 | FATAL | [main] | utilities.Log:fatal(37) | The file you provided was not found on your HDD. You provided the following file path: D:\Applications\Appium.app\Contents\Resources\node\bin\node 
+2018-07-02 11:05:25,241 |  INFO | [main] | utilities.Log:info(25) | Data files set for :HomeTest 
+2018-07-02 11:05:25,381 |  INFO | [main] | utilities.Log:info(25) | Android Mobile 
+2018-07-02 11:06:04,173 |  INFO | [main] | utilities.Log:info(25) |  After Suite 
+2018-07-02 11:06:09,192 | DEBUG | [main] | freemarker.cache:debug(45) | Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it. 
+2018-07-02 11:06:09,192 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found 
+2018-07-02 11:06:09,208 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found 
+2018-07-02 11:06:09,208 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found 
+2018-07-02 11:06:09,208 | DEBUG | [main] | freemarker.cache:debug(45) | Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravi.devireddy/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl" 
+2018-07-02 11:06:09,891 | DEBUG | [main] | freemarker.cache:debug(45) | Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it. 
+2018-07-02 11:06:09,891 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found 
+2018-07-02 11:06:09,891 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found 
+2018-07-02 11:06:09,891 | DEBUG | [main] | freemarker.cache:debug(45) | TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found 
+2018-07-02 11:06:09,891 | DEBUG | [main] | freemarker.cache:debug(45) | Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ravi.devireddy/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl" 
+2018-07-02 11:06:10,431 |  INFO | [main] | utilities.Log:info(25) | Test Case execution Completed 

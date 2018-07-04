@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" verbose="2" name="Failed suite [Mobile Regression Test Suite]">
+  <parameter name="" value=""/>
+  <parameter name="Ebay_password" value="Assvreddy@6243"/>
+  <parameter name="MobileType" value="ANDROID"/>
+  <parameter name="URL" value="https://drive.google.com/open?id=1RxStX5EwnSk81OPXMmnK9aXwMOlxfjOG"/>
+  <parameter name="Ebay_username" value="reddy55554@gmail.com"/>
+  <listeners>
+    <listener class-name="utilities.CustomReportTest"/>
+  </listeners>
+  <test name="Functional test(failed)">
+    <parameter name="" value=""/>
+    <parameter name="Ebay_password" value="Assvreddy@6243"/>
+    <parameter name="MobileType" value="ANDROID"/>
+    <parameter name="URL" value="https://drive.google.com/open?id=1RxStX5EwnSk81OPXMmnK9aXwMOlxfjOG"/>
+    <parameter name="Ebay_username" value="reddy55554@gmail.com"/>
+    <classes>
+      <class name="tests.HomeTest">
+        <methods>
+          <include name="tearDownAppium"/>
+          <include name="setExcel"/>
+          <include name="H001_HomePageDetails"/>
+          <include name="setUpAppium"/>
+          <include name="App_login"/>
+          <include name="App_logout"/>
+        </methods>
+      </class> <!-- tests.HomeTest -->
+    </classes>
+  </test> <!-- Functional test(failed) -->
+</suite> <!-- Failed suite [Mobile Regression Test Suite] -->
